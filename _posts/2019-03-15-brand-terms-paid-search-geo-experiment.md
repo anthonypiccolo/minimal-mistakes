@@ -1,4 +1,7 @@
 ---
+header:
+  image: /assets/paid-search-brand-bid.png
+  image_description: "Should you bid on brand terms in Paid Search? A randomised geo-experiment"
 title: Should you bid on brand terms in Paid Search? A randomised geo-experiment
 categories:
   - Analytics
