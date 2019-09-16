@@ -22,13 +22,13 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Anthony Piccolo"
 description              : "Anthony Piccolo is a digital analyst from Melbourne, blogging about web analytics,
                             data science, data visualisation, digital marketing and more."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://anthonypiccolo.xyz"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Anthony Piccolo"
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
