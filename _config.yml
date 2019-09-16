@@ -109,7 +109,7 @@ analytics:
 # Site Author
 author:
   name             : "Anthony Piccolo"
-  avatar           : "/assets/images/anthonypiccolo_bio.jpg"
+  avatar           : "/assets/anthonypiccolo_bio.jpg"
   bio              : "Anthony Piccolo is a digital analyst from Melbourne, blogging about web analytics,
                       data science, data visualisation, digital marketing and more."
   location         : "Melbourne"
