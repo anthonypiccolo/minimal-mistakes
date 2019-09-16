@@ -16,11 +16,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Anthony Piccolo - Digital Analyst From Melbourne"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Anthony Piccolo"
+description              : "Anthony Piccolo is a digital analyst from Melbourne, blogging about web analytics,
+                            data science, data visualisation, digital marketing and more."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,10 +108,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "Anthony Piccolo"
+  avatar           : "/assets/images/anthonypiccolo_bio.jpg"
+  bio              : "Anthony Piccolo is a digital analyst from Melbourne, blogging about web analytics,
+                      data science, data visualisation, digital marketing and more."
+  location         : "Melbourne"
   email            :
   links:
     - label: "Email"
