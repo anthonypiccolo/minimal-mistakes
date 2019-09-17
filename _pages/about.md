@@ -15,4 +15,12 @@ A few things about me;
 
 ## Programming Languages
 
-<i class="fab fa-docker"></i> Docker
+<i class="fab fa-r-project"></i> R
+
+<i class="fas fa-database"></i> SQL
+
+<i class="fab fa-git-alt"></i> Git
+
+<i class="fab fa-html5"></i> HTML
+
+<i class="fab fa-css3-alt"></i> CSS
