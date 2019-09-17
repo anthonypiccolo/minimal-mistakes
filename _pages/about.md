@@ -12,3 +12,7 @@ A few things about me;
 * Enjoy statistical programming (R) and regularly use libraries such as `googleanalyticsR` and `prophet`.
 * Using AWS Athena to run SQL queries a whole heap of data sitting in S3.
 * Currently learning python and heavily interested in big data, machine learning and predictive analytics.
+
+## Programming Languages
+
+<i class="fab fa-docker"></i> Docker
