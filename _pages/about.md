@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-I’m a Digital Insights Analyst currently cutting my teeth at MYOB, a fintech, SaaS company located in Melbourne Australia. Before diving into the world of data I was a Performance Marketing Specialist at Country Road Group with a passion for web analytics. Previously I was working in performance marketing agency side at Columbus.
+I’m a Digital Insights Analyst cutting my teeth at MYOB, a fintech SaaS company located in Melbourne, Australia. Before diving into the world of data, I was a Performance Marketing Specialist at Country Road Group with a passion for web analytics.
 
 A few things about me;
 
