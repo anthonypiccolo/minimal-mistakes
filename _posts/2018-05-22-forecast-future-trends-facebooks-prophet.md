@@ -17,7 +17,7 @@ First, install the package;
 
 Now it's time to load the library
 
-```
+```r
 library(prophet)
 library(dplyr)
 ```
@@ -40,14 +40,14 @@ Now we call the prophet function to fit the model.
 
 The `make_future_dataframe` function takes the model and specified number of periods to forecast and produce a dataframe.
 
-```
+```r
 future <- make_future_dataframe(m, periods = 245)
 tail(future)
 ```
 
 Use the `predict` function to get the forecast which sits within the dataframe in the column `yhat`.
 
-```
+```r
 forecast <- predict(m, future)
 tail(forecast[c('ds', 'yhat', 'yhat_lower', 'yhat_upper')])
 ```
@@ -58,7 +58,7 @@ Below we select the fields which we will be using to plot the data which is the 
 
 To visualise the forecast in R, run the below;
 
-```
+```r
 plot(m, forecast) +
 labs(title = "x",
 subtitle = "x",
