@@ -12,11 +12,11 @@ Paid Search is a mature advertising channel, [making up 44% of digital advertisi
 
 One of the key arguments for bidding on brand is brand protection, ensuring competitors aren't appearing before the first organic result. Another key advantage is incrementality, where there is the opportunity to drive more traffic by having both an organic and paid result on the SERP by increasing the overall CTR. The ability to control messaging in ad copy is also considered advantageous to many advertisers. Finally, bidding on brand is incredibly cheap from a cost-per-click perspective -- it's cheap traffic!
 
-![Paid Search ads with competitors bidding on brand terms](https://anthonypiccolo.github.io/assets/2019/03/sportsbet-serp.jpg)
+![Paid Search ads with competitors bidding on brand terms](https://anthonypiccolo.xyz/assets/2019/03/sportsbet-serp.jpg)
 
 The main argument made against bidding on brand is cannibalisation. A user searching for a brand term is showing a high degree of intent and is already aware of a brand &mdash; making it likely they would convert via an organic result without the presence of paid advertising.
 
-![Paid Search ad with no competitors bidding on brand term](https://anthonypiccolo.github.io/assets/2019/03/bupa-serp.jpg)
+![Paid Search ad with no competitors bidding on brand term](https://anthonypiccolo.xyz.assets/2019/03/bupa-serp.jpg)
 
 It's important to understand the degree to which branded ads cannibalise organic search and the overall rate of incrementality. Those who work in SEO or Paid Search usually have pre-conceived notions where these biases are generally fuelled by protection of their own area of specialisation. Organic results are going bad? Blame that on Paid Search cannibalising the activity you look after. Any talk of cannibalisation / incrementality on branded Paid Search activity? Make a reductionist argument that budget is wasted on other areas of advertising where ROI can't be measured.  
 
@@ -118,6 +118,6 @@ obj.tbr <- DoTBRAnalysis(obj, response='transactionRevenue',
 
 The below is the output plot.
 
-![Time-Based Regression (TBR) causal effect analysis example - results of Paid Search incrementality](https://anthonypiccolo.github.io/assets/2019/03/tbr-analysis-768x572.jpg)
+![Time-Based Regression (TBR) causal effect analysis example - results of Paid Search incrementality](https://anthonypiccolo.xyz/assets/2019/03/tbr-analysis-768x572.jpg)
 
 From here, you could effectively run this analysis on both your paid and organic data set and measure the level of incrementality / cannibalisation. This will give an objective understanding of the percentage of investment should go to Brand campaigns. Of course, none of this is necessary if there are competitors constantly bidding against your brand terms!
