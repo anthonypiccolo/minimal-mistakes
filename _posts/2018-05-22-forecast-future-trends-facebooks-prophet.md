@@ -71,6 +71,6 @@ geom_smooth(aes(x = ds, y = yhat), colour = "red", method = "loess", span = .1)
 
 That's it, now you can visualise your forecast in R!
 
-![Prophet Forecast Example](https://anthonypiccolo.github.io/assets/2018/05/prophet-forecast.jpg)
+![Prophet Forecast Example](https://anthonypiccolo.xyz/assets/2018/05/prophet-forecast.jpg)
 
 This kind of analysis is extremely powerful and can be run on any data set in a matter of minutes. The above is what I've used to generate a forecast but following the relevant guides, additional emphasis on holidays and other seasonal events can be accounted for. Prophet is a great tool for any digital analyst when it comes to forecasting any relevant business metric.
