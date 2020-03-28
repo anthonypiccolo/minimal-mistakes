@@ -11,7 +11,11 @@ As social media researchers Axel Bruns and Jean Burgess have argued that the use
 
 For this specific blog post, the hashtag #libspill was tracked using [DMI-TCAT](https://github.com/digitalmethodsinitiative/dmi-tcat). The other popular hashtags used were #libspill2, #spill and #putoutyouronions but for the purposes of this analysis only the #libspill hashtag was tracked. For comparative purposes, tracking multiple hashtags can be useful in finding differentiation of the discussions being played out in these ad hoc issue publics. For example, the #putoutyouronions hashtag was used as a means of mocking Abbott&#8217;s potential loss of Prime Ministership by referencing the occasion when he was [famously pictured eating a raw onion](http://www.theage.com.au/federal-politics/political-news/tony-abbott-shocks-as-he-eats-a-raw-onion-whole-20150313-143syz.html).
 
+<div class="center">
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">&lt;sniff&gt; <a href="https://twitter.com/hashtag/PutOutYourOnions?src=hash&amp;ref_src=twsrc%5Etfw">#PutOutYourOnions</a> <a href="http://t.co/dT6Xx4WZdh">pic.twitter.com/dT6Xx4WZdh</a></p>&mdash; Possum Comitatus (@Pollytics) <a href="https://twitter.com/Pollytics/status/643320518481965056?ref_src=twsrc%5Etfw">September 14, 2015</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</div>
 
 Turnbull announced he would challenge Abbott for the leadership just after 4 P.M. AEST and I began tracking the #libspill hashtag at 5:15 P.M. From the time the tracking of the hashtag began until midnight, I captured 226,359 tweets from 55,142 distinct users.
 
