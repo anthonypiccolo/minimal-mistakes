@@ -7,7 +7,7 @@ categories:
 With the NBA season coming to a close, the timing could not be worse - I have developed an [NBA betting model web app](https://nbamodel-223111.web.app/). Although I'm not interested in betting on NBA games anymore, I thought this would be an interesting academic exercise. It has been agood reason to dive deeper into ssome key software enginerring practices.
 
 <figure style="width: 800px">
-    <img src="https://anthonypiccolo.xyz/assets/2020/10/nba-betting-model-web-app.png" alt>
+    <img src="https://anthonypiccolo.xyz/assets/2020/10/nba-model-web-app.png" alt>
 </figure>
 
 The model is based largely on Dean Oliver's [Four Factors](https://www.basketball-reference.com/about/factors.html) - the most important statistics that determine who will win a basketball game. Shooting, turnovers, rebounding and free throws. Other advanced team and player statistics will be included in the future to hopefully produce a more accurate model.
