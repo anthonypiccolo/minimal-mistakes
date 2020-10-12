@@ -14,6 +14,8 @@ The NBA betting model is built using Google Cloud Platform and is completely ser
 
 2188 × 1038
 
+<img src="https://anthonypiccolo.xyz/assets/2020/10/nba-betting-model-architecture.png" width="2188" height="1038">
+
 This software architecture does not use any compute ressources and is not going to incur any billing costs in GCP.
 
 I plan on writing additional posts detailing the code to scrape the NBA data, build the relevant piplines and serve the ultimate line for daily matchups.
