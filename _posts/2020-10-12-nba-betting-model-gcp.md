@@ -4,7 +4,7 @@ title: Building an NBA betting model using Google Cloud Platform
 categories:
   - Analytics
 ---
-With the NBA season coming to a close, the timing could not be worse - I have developed an [NBA betting model web app](https://nbamodel-223111.web.app/). Although I  don't think expect this model to 'beat the books', I thought this would be an interesting academic exercise. It has been agood reason to dive deeper into ssome key software enginerring practices.
+With the NBA season coming to a close, the timing could not be worse - I have developed an [NBA betting model web app](https://nbamodel-223111.web.app/). Although I  don't think expect this model to 'beat the books', I thought this would be an interesting academic exercise. It has been agood reason to dive deeper into some key software enginerring practices.
 
 <figure style="width: 800px">
     <img src="https://anthonypiccolo.xyz/assets/2020/10/nba-model-web-app.png" alt>
