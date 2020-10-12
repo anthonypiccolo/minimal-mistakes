@@ -10,7 +10,7 @@ The model is based largely on Dean Oliver's [Four Factors](https://www.basketbal
 
 The NBA betting model is built using Google Cloud Platform and is completely serverless. NBA team and schedule data is scraped using python scripts taking advantage of packages such as `BeautifulSoup` and are run using GCP's Cloud Functions, the data is then processes to GCS buckets and subsequently BigQuery. The model is then created and run using BigQuery - with scheduled query outputting `json` to another GCS bucket via another Cloud Function invoked by a Pub/Sub Topic. From here a static Vue [website](https://github.com/anthonypiccolo/nbamodel) is hosted via Firebase with a compontent serving the `json` via an Axios HTTP request.
 
-<img src="https://anthonypiccolo.xyz/assets/2020/10/nba-betting-model-architecture.png" alt="NBA model architecture" width="2000"/>
+<img src="https://anthonypiccolo.xyz/assets/2020/10/nba-betting-model-architecture.png" alt="NBA model architecture" width="4000"/>
 
 This software architecture does not use any compute ressources and is not going to incur any billing costs in GCP.
 
