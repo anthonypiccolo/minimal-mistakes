@@ -3,20 +3,30 @@ permalink: /about/
 title: "About"
 ---
 
-I’m a Digital Insights Analyst cutting my teeth at MYOB, a fintech SaaS company located in Melbourne, Australia. Before diving into the world of data, I was a Performance Marketing Specialist at Country Road Group with a passion for web analytics.
+Hi there 👋
 
-A few things about me;
+I currently work in Product Analytics within the SaaS space. A little bit more about me:
 
-* Results driven and enjoy building things – revenue, growth, products. I want to move the metrics and make recommendations that will assist in delivering business objectives.
-* Insights driven and approach problems with an analytical and experimental based methodology.
-* Enjoy statistical programming in R and regularly use libraries such as `tidyverse`. Some of my favourite libraries are `googleanalyticsR` and `prophet`.
-* Using AWS Athena and BigQuery for analysis and data manipulation. I'm experienced with SQL and relational databases. For example, writing SQL queries and transformations, putting them into Airflow DAGs to run on schedule to prepare them for a presentation layer.
-* Experience with GCP. I regularly use products such as Cloud Functions, BigQuery, Google Cloud Storage, Pub/Sub, Cloud Source Repository, Stackdriver. For example, creating ETL data flows to send data to S3 using all of these services.
-* Experienced using Segment as a CDP for all event capture. Building Personas to send cohorts to other destinations (ie. media buying tools and other analytics services)
-* Currently learning Django and heavily interested in big data, machine learning and predictive analytics.
-* Employing good software engineering practices using `git ` and clean code principles.
+* I help product and delivery teams understand customer behaviour, existing journeys and test assumptions. This helps drive customer growth, adoption and reduce churn but also ensures we ship the right products and features over time.
 
-## Programming Languages
+* Deliver analytics through data pipelines, exploration, interpretation and visualisation of data.
+
+* I'm a subject matter expert for the event streaming of product data and can help teams understand performance of their products through a metrics driven framework.
+
+* Experienced with conversion optimisation techniques such as A/B testing.
+
+* I have a performance marketing background and have a growth mindset. I love being in the tech industry, working on challenging problems and building products that customers love.
+
+* Tools I'm using to get the job done include: 
+SQL (Athena & Snowflake)
+Airflow
+dbt
+git
+Segment
+Tableau
+Google Analytics
+
+<!-- ## Tools/Languages
 
 <i class="fab fa-python"></i> Python
 
@@ -28,7 +38,7 @@ A few things about me;
 
 <i class="fab fa-html5"></i> HTML
 
-<i class="fab fa-css3-alt"></i> CSS
+<i class="fab fa-css3-alt"></i> CSS -->
 
 <!---
 Analysing customer journeys across web and non-web channels
