@@ -18,13 +18,13 @@ I currently work in Product Analytics within the SaaS space. A little bit more a
 * I have a performance marketing background and have a growth mindset. I love being in the tech industry, working on challenging problems and building products that customers love.
 
 * Tools I'm using to get the job done include: 
-SQL (Athena & Snowflake)
-Airflow
-dbt
-git
-Segment
-Tableau
-Google Analytics
+    - SQL (Athena & Snowflake)
+    - Airflow
+    - dbt
+    - git
+    - Segment
+    - Tableau
+    - Google Analytics
 
 <!-- ## Tools/Languages
 
