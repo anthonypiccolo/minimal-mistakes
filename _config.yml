@@ -138,7 +138,7 @@ author:
       url: "https://www.linkedin.com/in/anthonyjpiccolo"
     - label: "Strava"
       icon: "fab fa-fw fa-strava"
-      url: "https://www.strava.com/athletes/44228495"
+      url: "https://www.strava.com/athletes/anthonypiccolo"
 
 # Site Footer
 footer:
@@ -158,13 +158,15 @@ footer:
     - # label: "Bitbucket"
       # icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/anthonypiccolo"
+    - # label: "Instagram"
+      # icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/anthonypiccolo"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/anthonyjpiccolo"
-
+    - label: "Strava"
+      icon: "fab fa-fw fa-strava"
+      url: "https://www.strava.com/athletes/anthonypiccolo"
 
 # Reading Files
 include:
