@@ -132,10 +132,13 @@ author:
       url: "https://github.com/anthonypiccolo"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/anthonypiccolo"
+      # url: "https://instagram.com/anthonypiccolo"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/anthonyjpiccolo"
+    - label: "Strava"
+      icon: "fab fa-fw fa-strava"
+      url: "https://www.strava.com/athletes/44228495"
 
 # Site Footer
 footer:
